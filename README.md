@@ -1,13 +1,13 @@
-#  Hola Soy N4zZa
+# 👋 Hola Soy N4zZa
 
 Bienvenido a mi rincón en GitHub.  
-Acá no hay trajes ni corbatas... solo terminales, café y alguna que otra locura de C++ 🤖.
+Acá no hay trajes ni corbatas... solo terminales, café y alguna que otra locura de C++.
 
 ## 🐧 Linux | 🔐 Hacking | ⚙️ C++
 
 Mis tres amores digitales:
 
-- 🐧 **Linux Lover:** Uso Linux windows (pero Kali siempre a mano 👾).
+- 🐧 **Linux Enthusiast:** Vivo en la terminal... cualquier distro que me sirva para romper cosas de forma creativa.
 - 🔍 **Hacking Ético:** Escaneo redes, busco vulnerabilidades... todo legal, tranqui 😁.
 - ⚙️ **C++ Explorer:** Porque prefiero pelearme con punteros antes que rendirme.
 
@@ -24,7 +24,7 @@ Mis tres amores digitales:
 
 ## 🛠️ Herramientas favoritas:
 
-![Linux](https://img.shields.io/badge/Linux-Mint-informational?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Terminal-informational?style=flat&logo=linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-Hacking-black?logo=kalilinux)
 ![C++](https://img.shields.io/badge/C%2B%2B-Language-blue?logo=c%2B%2B&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Scanner-blueviolet)
@@ -39,3 +39,4 @@ Mis tres amores digitales:
 > Explorando redes...
 > Escribiendo exploits (de práctica)...
 > Rompiendo cosas sin culpa...
+
