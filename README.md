@@ -41,4 +41,4 @@ Mis tres amores digitales:
 > Rompiendo cosas sin culpa...
 
 ```
-![Hacker GIF](https://media.giphy.com/media/3o7TKPdUkkb8fJQyDu/giphy.gif)
+![Hacker Real](https://media.giphy.com/media/LpDmM8wG3Uo4IhH3k0/giphy.gif)
