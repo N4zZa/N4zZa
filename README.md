@@ -40,7 +40,3 @@ Mis tres amores digitales:
 > Escribiendo exploits (de práctica)...
 > Rompiendo cosas sin culpa...
 
-```
-## 🖥️ Hacker vibe:
-![Hacker Vibe](https://github.com/N4zZa/N4zZa/blob/main/hacker-vibe.gif?raw=true)
-
