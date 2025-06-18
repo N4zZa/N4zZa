@@ -1,16 +1,41 @@
-## Hi there 👋
+#  Hola Soy N4zZa
 
-<!--
-**N4zZa/N4zZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi rincón en GitHub.  
+Acá no hay trajes ni corbatas... solo terminales, café y alguna que otra locura de C++ 🤖.
 
-Here are some ideas to get you started:
+## 🐧 Linux | 🔐 Hacking | ⚙️ C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis tres amores digitales:
+
+- 🐧 **Linux Lover:** Uso Linux Mint (pero Kali siempre a mano 👾).
+- 🔍 **Hacking Ético:** Escaneo redes, busco vulnerabilidades... todo legal, tranqui 😁.
+- ⚙️ **C++ Explorer:** Porque prefiero pelearme con punteros antes que rendirme.
+
+---
+
+## 🚧 Proyectos & ideas:
+
+| Proyecto            | Estado     | Descripción                     |
+|--------------------|------------|---------------------------------|
+| **Guía Nmap**      | 🛠️ En progreso | Primer paso serio en hacking |
+| **Mini tools C++** | 🌱 Boceto    | Scripts random para la terminal|
+
+---
+
+## 🛠️ Herramientas favoritas:
+
+![Linux](https://img.shields.io/badge/Linux-Mint-informational?style=flat&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-Hacking-black?logo=kalilinux)
+![C++](https://img.shields.io/badge/C%2B%2B-Language-blue?logo=c%2B%2B&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-blueviolet)
+
+---
+
+## 🧩 Terminal vibes:
+
+```bash
+┌──(N4zZa㉿github)-[~/repos]
+└─$ ./progreso_hacking.sh
+> Explorando redes...
+> Escribiendo exploits (de práctica)...
+> Rompiendo cosas sin culpa...
