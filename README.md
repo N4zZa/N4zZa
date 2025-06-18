@@ -7,7 +7,7 @@ Acá no hay trajes ni corbatas... solo terminales, café y alguna que otra locur
 
 Mis tres amores digitales:
 
-- 🐧 **Linux Lover:** Uso Linux Mint (pero Kali siempre a mano 👾).
+- 🐧 **Linux Lover:** Uso Linux windows (pero Kali siempre a mano 👾).
 - 🔍 **Hacking Ético:** Escaneo redes, busco vulnerabilidades... todo legal, tranqui 😁.
 - ⚙️ **C++ Explorer:** Porque prefiero pelearme con punteros antes que rendirme.
 
