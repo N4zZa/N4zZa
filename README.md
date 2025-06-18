@@ -41,4 +41,5 @@ Mis tres amores digitales:
 > Rompiendo cosas sin culpa...
 
 ```
-![Hacker Real](blob:https://web.whatsapp.com/14a680de-3bd6-4901-84da-2f30b97a66af)
+![Hacker Real](https://github.com/N4zZa/N4zZa/blob/main/hacker-vibe.gif?raw=true)
+
