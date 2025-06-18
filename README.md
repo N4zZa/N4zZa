@@ -40,5 +40,5 @@ Mis tres amores digitales:
 > Escribiendo exploits (de práctica)...
 > Rompiendo cosas sin culpa...
 
->GIF
+```
 ![Hacker GIF](https://media.giphy.com/media/3o7TKPdUkkb8fJQyDu/giphy.gif)
