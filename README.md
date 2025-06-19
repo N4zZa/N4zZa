@@ -1,28 +1,28 @@
-# 👋 Hola Soy N4zZa
+# 👋 Hi, I'm N4zZa
 
-Bienvenido a mi rincón en GitHub.  
-Acá no hay trajes ni corbatas... solo terminales, café y alguna que otra locura de C++.
+Welcome to my little corner on GitHub.  
+No suits or ties here... just terminals, coffee, and some C++ madness.
 
 ## 🐧 Linux | 🔐 Hacking | ⚙️ C++
 
-Mis tres amores digitales:
+My three digital passions:
 
-- 🐧 **Linux Enthusiast:** Vivo en la terminal... cualquier distro que me sirva para romper cosas de forma creativa.
-- 🔍 **Hacking Ético:** Escaneo redes, busco vulnerabilidades... todo legal, tranqui 😁.
-- ⚙️ **C++ Explorer:** Porque prefiero pelearme con punteros antes que rendirme.
-
----
-
-## 🚧 Proyectos & ideas:
-
-| Proyecto            | Estado     | Descripción                     |
-|--------------------|------------|---------------------------------|
-| **Guía Nmap**      | 🛠️ En progreso | Primer paso serio en hacking |
-| **Mini tools C++** | 🌱 Boceto    | Scripts random para la terminal|
+- 🐧 **Linux Enthusiast:** Living in the terminal... any distro that lets me break things creatively.
+- 🔍 **Ethical Hacking:** Scanning networks, finding vulnerabilities... all legal, relax 😁.
+- ⚙️ **C++ Explorer:** I'd rather fight with pointers than give up.
 
 ---
 
-## 🛠️ Herramientas favoritas:
+## 🚧 Projects & Ideas:
+
+| Project            | Status        | Description                      |
+|-------------------|--------------|----------------------------------|
+| **Nmap Guide**     | 🛠️ In progress | First serious step into hacking |
+| **Mini C++ Tools** | 🌱 Draft       | Random terminal scripts          |
+
+---
+
+## 🛠️ Favorite Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-Terminal-informational?style=flat&logo=linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-Hacking-black?logo=kalilinux)
@@ -35,8 +35,9 @@ Mis tres amores digitales:
 
 ```bash
 ┌──(N4zZa㉿github)-[~/repos]
-└─$ ./progreso_hacking.sh
-> Explorando redes...
-> Escribiendo exploits (de práctica)...
-> Rompiendo cosas sin culpa...
+└─$ ./hacking_progress.sh
+> Exploring networks...
+> Writing (practice) exploits...
+> Breaking things without guilt...
+
 
